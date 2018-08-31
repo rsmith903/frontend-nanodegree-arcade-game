@@ -1,11 +1,11 @@
 body {
     text-align: center;
 }
-/* Score and Lives */
+/* Points and Men Left */
 
-.game-stats {
+.progress-game {
 	margin: 3rem auto 0 auto;
-	width: 30%;
+	width: 
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
